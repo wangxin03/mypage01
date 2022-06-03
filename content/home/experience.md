@@ -2,12 +2,12 @@
 widget: experience
 date_format: Jan 2006
 experience:
-  - title: CEO111
-    company: GenCoin
+  - title: PhD Candidate
+    company: Hunan University
     company_url: ""
-    company_logo: org-gc
-    location: California
-    date_start: 2021-01-01
+   # company_logo: org-gc
+    location: Changsha, China
+    date_start: 2020-09-01
     date_end: ""
     description: |-2
         Responsibilities include:

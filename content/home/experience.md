@@ -34,7 +34,7 @@ experience:
     description: |-2
         I was responsible for the product's user research (e.g. user profile, behavioral data and business model analysis, etc.), data mining and project management. During this period, I obtained three national invention patents as the first inventor.
 
-  - title: M.S. in Philosophy of Science and Technology
+  - title: M.S. in Philosophy of Science and Technology (Minor in Computer Science and Technology,2012-2014)
     company: Chinese Academy of Sciences
     company_url: "https://www.ucas.ac.cn/"
    # company_logo: org-gc

@@ -45,5 +45,3 @@ highlight_name: true
 I'm a 2nd year PhD candidate from Hunan University (P.R. China) , majoring in management science and engineering in the business school. I have read a bunch of theory, learned how to write decent code, worked on solving real-world problems with the management methods.
 
 My research is on the technological innovation mechanism (e.g. AI, blockchain, etc.) and its influence on the financial markets. One of my research topics is the econometric analysis of flash crashes in the stock market for the listed tech companies.
-
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.

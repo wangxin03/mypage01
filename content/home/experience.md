@@ -24,6 +24,16 @@ experience:
     description: |-2
         I was responsible for the design and research of the AI intelligent consumption system. The data source of this system is based on JD's massive user consumption and behavior data and customer service chat logs. It is a big data intelligent platform that integrates consumption hotspot trend prediction and public opinion risk tracking. My responsibility was to analyze the consumption and behavior data of JD's users, research the product consumption recommendation algorithms and build the users' emotion perception models.
 
+  - title: Data Analyst111
+    company: Jingdong Company | AI Research Department
+    company_url: "http://neuhub.jd.com/"
+   # company_logo: org-gc
+    location: Beijing, China
+    date_start: 2018-05-01
+    date_end: "2020-08-20"
+    description: |-2
+        I was responsible for the design and research of the AI intelligent consumption system. The data source of this system is based on JD's massive user consumption and behavior data and customer service chat logs. It is a big data intelligent platform that integrates consumption hotspot trend prediction and public opinion risk tracking. My responsibility was to analyze the consumption and behavior data of JD's users, research the product consumption recommendation algorithms and build the users' emotion perception models.
+
 
   - title: Professor of Semiconductor Physics
     company: University X

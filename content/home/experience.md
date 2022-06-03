@@ -2,7 +2,7 @@
 widget: experience
 date_format: Jan 2006
 experience:
-  - title: CEO
+  - title: CEO111
     company: GenCoin
     company_url: ""
     company_logo: org-gc

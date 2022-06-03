@@ -3,8 +3,8 @@ widget: experience
 date_format: Jan 2006
 experience:
   - title: PhD in Management Science and Engineering
-    company: Hunan University
-    company_url: "https://www.hnu.edu.cn/"
+    company: Hunan University | Business School
+    company_url: "http://ibschool.hnu.edu.cn/index.htm"
    # company_logo: org-gc
     location: Changsha, China
     date_start: 2020-09-01
@@ -35,8 +35,8 @@ experience:
         I was responsible for the product's user research (e.g. user profile, behavioral data and business model analysis, etc.), data mining and project management. During this period, I obtained three national invention patents as the first inventor.
 
   - title: M.S. in Philosophy of Science and Technology (Minor in Computer Science and Technology, 2012-2014)
-    company: Chinese Academy of Sciences
-    company_url: "https://www.ucas.ac.cn/"
+    company: Chinese Academy of Sciences | School of Humanities
+    company_url: "https://renwen.ucas.ac.cn/"
    # company_logo: org-gc
     location: Beijing, China
     date_start: 2012-09-01
@@ -47,8 +47,8 @@ experience:
         Major courses: Dialectics of Nature, Introduction to Philosophy of Science, History of Science, Modern Western Philosophy, Computer Programming and Algorithms, Machine Learning, etc.
 
   - title: B.S. in Physics
-    company: Beijing Jiaotong University
-    company_url: "https://www.bjtu.edu.cn/"
+    company: Beijing Jiaotong University | School of Science
+    company_url: "https://sci.bjtu.edu.cn/"
    # company_logo: org-gc
     location: Beijing, China
     date_start: 2008-09-01

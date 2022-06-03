@@ -11,8 +11,9 @@ experience:
     date_end: ""
     description: |-2
         Advisor: Prof. Chaoqun Ma
-        Current research: The impact of digital capabilities and resource synergy on breakthrough innovation in the digital economy
         
+        Current research: The impact of digital capabilities and resource synergy on breakthrough innovation in the digital economy
+
   - title: Professor of Semiconductor Physics
     company: University X
     company_url: ""

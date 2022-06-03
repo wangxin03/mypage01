@@ -24,19 +24,20 @@ social:
     icon_pack: ai
     link: uploads/resume.pdf
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: Hunan University
+    url: https://www.hnu.edu.cn/
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: PhD in Management Science and Engineering
+      institution: Hunan University
+      year: ""
+    - course: M.S. in Philosophy of Science and Technology (Minor in Computer Science
+        and Technology)
+      institution: Chinese Academy of Sciences
+      year: ""
+    - course: B.S. in Physics
+      institution: Beijing Jiaotong University
+      year: -1
 email: ""
 superuser: true
 highlight_name: true

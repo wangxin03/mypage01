@@ -14,6 +14,20 @@ experience:
         
         Current research: The impact of digital capabilities and resource synergy on breakthrough innovation in the digital economy
 
+experience:
+  - title: PhD Candidate
+    company: Hunan University
+    company_url: "https://www.hnu.edu.cn/"
+   # company_logo: org-gc
+    location: Changsha, China
+    date_start: 2020-09-01
+    date_end: ""
+    description: |-2
+        Advisor: Prof. Chaoqun Ma
+        
+        Current research: The impact of digital capabilities and resource synergy on breakthrough innovation in the digital economy
+
+
   - title: Professor of Semiconductor Physics
     company: University X
     company_url: ""
@@ -24,7 +38,7 @@ experience:
     description: Taught electronic engineering and researched semiconductor physics.
 
 
-    
+
 widget_id: "111"
 headless: true
 weight: 40

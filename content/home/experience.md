@@ -14,8 +14,7 @@ experience:
         
         Current research: The impact of digital capabilities and resource synergy on breakthrough innovation in the digital economy
 
-experience:
-  - title: PhD Candidate
+  - title: PhD Candidate111
     company: Hunan University
     company_url: "https://www.hnu.edu.cn/"
    # company_logo: org-gc
@@ -45,5 +44,5 @@ weight: 40
 title: Experience
 subtitle: null
 design:
-  columns: "3"
+  columns: "2"
 ---

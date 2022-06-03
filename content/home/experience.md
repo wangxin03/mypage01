@@ -22,10 +22,6 @@ experience:
     date_start: 2018-15-01
     date_end: 2020-08-30
     description: I was responsible for the design and research of the AI intelligent consumption system.
-
-
-
-
 widget_id: "111"
 headless: true
 weight: 40

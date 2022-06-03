@@ -14,13 +14,13 @@ experience:
         
         Current research: The impact of digital capabilities and resource synergy on breakthrough innovation in the digital economy
 
-  - title: PhD Candidate111
-    company: Hunan University
-    company_url: "https://www.hnu.edu.cn/"
+  - title: Data Analyst
+    company: Jingdong Company | AI Research Department
+    company_url: "http://neuhub.jd.com/"
    # company_logo: org-gc
-    location: Changsha, China
-    date_start: 2020-09-01
-    date_end: ""
+    location: Beijing, China
+    date_start: 2018-05-01
+    date_end: "2020-08-20"
     description: |-2
         Advisor: Prof. Chaoqun Ma
         

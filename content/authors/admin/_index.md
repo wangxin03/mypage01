@@ -30,14 +30,14 @@ education:
   courses:
     - course: PhD in Management Science and Engineering
       institution: Hunan University
-      year: ""
+      year: 2020
     - course: M.S. in Philosophy of Science and Technology (Minor in Computer Science
         and Technology)
       institution: Chinese Academy of Sciences
-      year: ""
+      year: 2012
     - course: B.S. in Physics
       institution: Beijing Jiaotong University
-      year: -1
+      year: 2008
 email: ""
 superuser: true
 highlight_name: true

@@ -15,7 +15,7 @@ experience:
         Current research: The impact of digital capabilities and resource synergy on breakthrough innovation in the digital economy
 
   - title: Data Analyst
-    company: Jingdong Company | AI Research Department
+    company: Jingdong Company
     company_url: "http://neuhub.jd.com/"
     #company_logo: org-x
     location: Beijing, China

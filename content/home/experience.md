@@ -4,7 +4,7 @@ date_format: Jan 2006
 experience:
   - title: PhD Candidate
     company: Hunan University
-    company_url: ""
+    company_url: "https://www.hnu.edu.cn/"
    # company_logo: org-gc
     location: Changsha, China
     date_start: 2020-09-01

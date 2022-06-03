@@ -10,7 +10,7 @@ headless: true
 weight: 50
 
 # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
-title: 'Accomplishments'
+title: 'Honor'
 subtitle:
 
 # Date format
@@ -25,12 +25,14 @@ date_format: Jan 2006
 item:
   - certificate_url: https://www.coursera.org
     date_end: ''
-    date_start: '2021-01-25'
+    date_start: '2021-05-25'
     description: ''
     organization: Coursera
-    organization_url: https://www.coursera.org
-    title: Neural Networks and Deep Learning
+    organization_url: http://gra.hnu.edu.cn/index.htm
+    title: Outstanding Postgraduate of Hunan University
     url: ''
+
+    
   - certificate_url: https://www.edx.org
     date_end: ''
     date_start: '2021-01-01'

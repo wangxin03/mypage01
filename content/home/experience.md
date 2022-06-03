@@ -2,7 +2,7 @@
 widget: experience
 date_format: Jan 2006
 experience:
-  - title: PhD Candidate
+  - title: PhD in Management Science and Engineering
     company: Hunan University
     company_url: "https://www.hnu.edu.cn/"
    # company_logo: org-gc
@@ -33,6 +33,20 @@ experience:
     date_end: "2018-04-20"
     description: |-2
         I was responsible for the product's user research (e.g. user profile, behavioral data and business model analysis, etc.), data mining and project management. During this period, I obtained three national invention patents as the first inventor.
+
+  - title: M.S. in Philosophy of Science and Technology
+    company: Chinese Academy of Sciences
+    company_url: "https://www.ucas.ac.cn/"
+   # company_logo: org-gc
+    location: Beijing, China
+    date_start: 2012-09-01
+    date_end: "2015-07-01"
+    description: |-2
+        Advisor: Prof. Zhicong Shang
+        
+        Major courses: Dialectics of Nature, Introduction to Philosophy of Science, History of Science, Modern Western Philosophy, Computer Programming and Algorithms, Machine Learning, etc.
+
+
 
 
   - title: Professor of Semiconductor Physics

@@ -2,8 +2,8 @@
 title: Xin Wang
 role: PhD Candidate in Management Science and Engineering
 avatar_filename: avatar.png
-bio: My research interests include distributed robotics, mobile computing and
-  programmable matter.
+bio: My research interests include innovation management, digital technology,
+  econometric analysis and standardisation.
 interests:
   - Innovation Management
   - Digital Technology
@@ -39,7 +39,7 @@ education:
     - course: B.S. in Physics
       institution: Beijing Jiaotong University
       year: 2008
-email: ""
+email: wangxin01@hnu.edu.cn
 superuser: true
 highlight_name: true
 ---

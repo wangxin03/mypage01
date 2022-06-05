@@ -33,9 +33,19 @@ item:
     url: ''
 
 
+  - certificate_url: https://i.ibb.co/4tPSt24/image.jpg
+    date_end: ''
+    date_start: '2021-09-01'
+    description: ''
+    organization: Chinese Ministry of Education
+    organization_url: http://www.moe.gov.cn/
+    title: Excellent in the National Computer Rank Examination (Level 3 in Network Technology)
+    url: ''
+
+
   - certificate_url: https://i.ibb.co/PrjCR8Y/image.jpg
     date_end: ''
-    date_start: '2021-01-01'
+    date_start: '2015-06-01'
     description: 
     organization: Chinese Academy of Sciences
     organization_url: https://www.ucas.ac.cn/
@@ -43,14 +53,6 @@ item:
     url: 
 
 
-  - certificate_url: https://www.datacamp.com
-    date_end: '2020-12-21'
-    date_start: '2020-07-01'
-    description: ''
-    organization: DataCamp
-    organization_url: https://www.datacamp.com
-    title: 'Object-Oriented Programming in R'
-    url: ''
 
 design:
   columns: '2'

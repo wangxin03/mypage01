@@ -23,7 +23,7 @@ social:
       header: false
     icon: cv
     icon_pack: ai
-    link: uploads/resume.pdf
+    link: https://s30.aconvert.com/convert/p3r68-cdx67/ayctg-ynpfy.html
 organizations:
   - name: Hunan University
     url: https://www.hnu.edu.cn/

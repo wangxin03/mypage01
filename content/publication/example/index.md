@@ -17,7 +17,7 @@ date: '2022-05-15T00:00:00Z'
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2017-01-01T00:00:00Z'
+publishDate: '2022-05-15T00:00:00Z'
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -26,8 +26,8 @@ publishDate: '2017-01-01T00:00:00Z'
 publication_types: ['1']
 
 # Publication name and optional abbreviated publication name.
-publication: In *Wowchemy Conference*
-publication_short: In *ICW*
+publication: In *CSIAM-BTAF Conference*
+publication_short: In *Beijing*
 
 abstract: My report entitled "Framework and method of blockchain consensus considering the importance of nodes" was presented at the conference of 2022 CSIAM Blockchain Technology and Application Summit Forum in Beijing on May 15, 2022.
 
@@ -45,18 +45,18 @@ featured: true
 #   url: http://example.org
 
 url_pdf: ''
-url_code: ''
-url_dataset: ''
-url_poster: ''
-url_project: ''
+#url_code: ''
+#url_dataset: ''
+#url_poster: ''
+#url_project: ''
 url_slides: ''
-url_source: ''
-url_video: ''
+#url_source: ''
+#url_video: ''
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
+  caption: 'Image credit: [**Unsplash**](https://i.ibb.co/NT4cjNw/image.png)'
   focal_point: ''
   preview_only: false
 
@@ -76,12 +76,4 @@ projects:
 slides: example
 ---
 
-{{% callout note %}}
-Click the _Cite_ button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /callout %}}
 
-{{% callout note %}}
-Create your slides in Markdown - click the _Slides_ button to check out the example.
-{{% /callout %}}
-
-Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).

@@ -25,7 +25,7 @@ content:
 #      captcha: false
 
   # Contact details (edit or remove options as required)
-  email: wangxin01@hnu.edu.cn
+  email: wangxin01@hnu.edu.cn, wangxin008@qq.com
 #  phone: 888 888 88 88
 #  address:
 #    street: 450 Serra Mall

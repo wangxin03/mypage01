@@ -13,9 +13,9 @@ slides:
   highlight_style: dracula
 ---
 
-# Create slides in Markdown with Wowchemy
+# Conference Scheduling and Personal Reports
 
-[Wowchemy](https://wowchemy.com/) | [Documentation](https://owchemy.com/docs/managing-content/#create-slides)
+[Conference Scheduling](https://s30.aconvert.com/convert/p3r68-cdx67/a6zqs-oio18.html) | [Personal Reports](https://mp.weixin.qq.com/s/PvkKPMh-YgvOOuK0-NHTQA)
 
 ---
 

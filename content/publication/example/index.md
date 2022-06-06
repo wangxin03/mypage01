@@ -1,19 +1,19 @@
 ---
-title: 'An example conference paper'
+title: 'Framework and method of blockchain consensus considering the importance of nodes'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
-  - admin
-  - Robert Ford
+  - CSIAM-BTAF
+#  - Robert Ford
 
 # Author notes (optional)
-author_notes:
-  - 'Equal contribution'
-  - 'Equal contribution'
+#author_notes:
+#  - 'Equal contribution'
+#  - 'Equal contribution'
 
-date: '2013-07-01T00:00:00Z'
+date: '2022-05-15T00:00:00Z'
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
@@ -29,10 +29,10 @@ publication_types: ['1']
 publication: In *Wowchemy Conference*
 publication_short: In *ICW*
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: My report entitled "Framework and method of blockchain consensus considering the importance of nodes" was presented at the conference of 2022 CSIAM Blockchain Technology and Application Summit Forum in Beijing on May 15, 2022.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: My report entitled "Framework and method of blockchain consensus considering the importance of nodes" was presented at the conference of 2022 CSIAM Blockchain Technology and Application Summit Forum in Beijing on May 15, 2022.
 
 tags: []
 
